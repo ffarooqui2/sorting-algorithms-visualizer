@@ -1,4 +1,4 @@
-import { AnimationArrayType } from "@/lib/utils";
+import { AnimationArrayType } from "@/lib/types";
 
 function runBubbleSort(array: number[], animations: AnimationArrayType) {
   for (let i = 0; i < array.length - 1; i++) {
